@@ -1,16 +1,41 @@
-## Hi there 👋
+## 🗿 Fernando Catalán | AnzarDev (Anzar for friends)
+**Software Analyst Programmer**
 
-<!--
-**anzar2/anzar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇨🇱 **Chilean**
 
-Here are some ideas to get you started:
+🖥️ **Web Stack**: (Linux, Apache, MySQL, PHP) + React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⛩️ **Hobbies**: Music, games, art. (and memes)
+
+### About me
+As a software developer, i like the fact of build things, bring my ideas and solutions to reality. Whether for my own purposes or helping others.
+
+In a web context, i started developing websites and API's with Django on academic projects. Over time, i've learned a lot about the web flow, and.. well, i still.
+I'm currently building sites with Laravel and React. My main project by now, is http://github.com/anzar2/micelab. Still under development but there we go :^)
+
+### Knowledge List
+* React
+* Laravel
+* Django
+* Rust
+* Ionic
+* MySQL
+* Linux
+* Apache
+* Postman
+* Firebase
+* Oracle Database
+* PHP
+* Python
+* C#
+* Design Patterns on software
+* POO
+* Unity
+* Unreal Engine
+
+## Recomendations
+Only amazing people below (^:
+
+https://github.com/AstronautMarkus/AstronautMarkus/
+
+https://github.com/AloRzs
