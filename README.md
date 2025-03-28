@@ -13,8 +13,6 @@ As a software developer, i like the fact of build things, bring my ideas and sol
 In a web context, i started developing websites and API's with Django on academic projects. Over time, i've learned a lot about the web flow, and.. well, i still.
 I'm currently building sites with Laravel and React. My main project by now, is http://github.com/anzar2/micelab. Still under development but there we go :^)
 
-My main goal is making games.
-
 ### Knowledge List
 * React
 * Laravel
