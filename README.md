@@ -38,6 +38,6 @@ My main goal is making games.
 ## Recomendations
 Only amazing people below (^:
 
-https://github.com/AstronautMarkus/AstronautMarkus/
+https://github.com/AstronautMarkus
 
 https://github.com/AloRzs
